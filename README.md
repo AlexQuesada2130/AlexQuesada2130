@@ -54,3 +54,15 @@ Here are the technologies I work with to build complete cross-platform solutions
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexQuesada2130&layout=compact&locale=en&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&hide_border=true" alt="Alex's Top Languages" />
   </a>
 </p>
+
+---
+
+### 📫 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=9C27B0" alt="Email" />
+  </a>
+</p>
