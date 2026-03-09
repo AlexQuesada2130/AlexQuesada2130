@@ -58,6 +58,7 @@ Here are the technologies I work with to build complete cross-platform solutions
 ---
 
 ### 📫 Let's Connect!
+Have a project in mind, a job opportunity, or just want to chat about code?
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
