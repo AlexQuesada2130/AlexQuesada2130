@@ -49,3 +49,17 @@ Aquí tienes las tecnologías con las que trabajo para construir soluciones mult
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <a href="https://github.com/AlexQuesada2130">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexQuesada2130&show_icons=true&locale=es&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&icon_color=9C27B0&hide_border=true" alt="Estadísticas de AlexQuesada2130" />
+  </a>
+  <br>
+  <a href="https://github.com/AlexQuesada2130">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexQuesada2130&layout=compact&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&hide_border=true" alt="Lenguajes más usados de Alex" />
+  </a>
+</p>
