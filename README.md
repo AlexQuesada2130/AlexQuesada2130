@@ -63,7 +63,7 @@ Have a project in mind, a job opportunity, or just want to chat about code?
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:Alexquesada2130@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=9C27B0" alt="Email" />
   </a>
 </p>
