@@ -1,6 +1,5 @@
 ## HELLO WORLD! 👋
 
-<!--
 **Cross-Platform App Developer | Lifelong Tech Enthusiast**
 
 I am a computer science enthusiast dedicated to learning day by day. I enjoy turning complex problems into intuitive applications, bringing my ideas to life through code.
@@ -35,6 +34,3 @@ I am a computer science enthusiast dedicated to learning day by day. I enjoy tur
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-### 
-
--->
