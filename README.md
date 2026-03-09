@@ -4,45 +4,37 @@
 
 I am a computer science enthusiast dedicated to learning day by day. I enjoy turning complex problems into intuitive applications, bringing my ideas to life through code.
 
-### Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-### 💻 Tech Stack & Herramientas
+Here are the technologies I work with to build complete cross-platform solutions, from design and UI to deployment and automation:
 
-Aquí tienes las tecnologías con las que trabajo para construir soluciones multiplataforma completas, desde el diseño y la interfaz hasta el despliegue y la automatización:
-
-**📱 Desarrollo Móvil & Frameworks**
-
+**📱 Mobile Development & Frameworks**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**🧠 Lenguajes de Programación**
-
+**🧠 Programming Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**🗄️ Bases de Datos & Cloud**
-
+**🗄️ Databases & Cloud**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**☁️ DevOps & Sistemas Operativos**
-
+**☁️ DevOps & Operating Systems**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash / Ubuntu](https://img.shields.io/badge/Bash_/_Ubuntu-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**⚙️ CMS, ERP & Automatización**
-
+**⚙️ CMS, ERP & Automation**<br>
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-**🛠️ Entornos (IDE), Diseño & Comunicación**
-
+**🛠️ IDEs, Design & Communication**<br>
 ![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -52,14 +44,13 @@ Aquí tienes las tecnologías con las que trabajo para construir soluciones mult
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
+### 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/AlexQuesada2130">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexQuesada2130&show_icons=true&locale=es&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&icon_color=9C27B0&hide_border=true" alt="Estadísticas de AlexQuesada2130" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexQuesada2130&show_icons=true&locale=en&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&icon_color=9C27B0&hide_border=true" alt="AlexQuesada2130's Stats" />
   </a>
   <br>
   <a href="https://github.com/AlexQuesada2130">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexQuesada2130&layout=compact&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&hide_border=true" alt="Lenguajes más usados de Alex" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexQuesada2130&layout=compact&locale=en&bg_color=000000&title_color=9C27B0&text_color=FFFFFF&hide_border=true" alt="Alex's Top Languages" />
   </a>
 </p>
