@@ -43,6 +43,21 @@ Here are the technologies I work with to build complete cross-platform solutions
 
 ---
 
+### 🚀 Featured Projects
+
+**[CommercialSearch](https://commercial-search.vercel.app/)**
+<br>
+A professional web tool to locate businesses in real-time, generate geographical intelligence, and export technical corporate sheets natively.
+<br>
+<a href="https://commercial-search.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://commercial-search.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel_Live_App-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live App on Vercel" />
+</a>
+
+---
+
 ### 📊 My GitHub Stats
 <p align="center">
   <a href="https://github.com/AlexQuesada2130">
@@ -63,6 +78,4 @@ Have a project in mind, a job opportunity, or just want to chat about code?
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
   </a>
   <a href="mailto:Alexquesada2130@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=9C27B0" alt="Email" />
-  </a>
-</p>
+    <img src
