@@ -1,4 +1,5 @@
 ## HELLO WORLD! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=AlexQuesada2130&color=9C27B0&style=flat-square&label=PROFILE+VIEWS)
 
 **Cross-Platform App Developer | Lifelong Tech Enthusiast**
 
@@ -74,8 +75,11 @@ A professional web tool to locate businesses in real-time, generate geographical
 ### 📫 Let's Connect!
 Have a project in mind, a job opportunity, or just want to chat about code?
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <!-- Cambia "tu-usuario-de-linkedin" por el tuyo real -->
+  <a href="https://linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
   </a>
   <a href="mailto:Alexquesada2130@gmail.com">
-    <img src
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
