@@ -1,5 +1,4 @@
 ## HELLO WORLD! 👋
-![Profile Views](https://komarev.com/ghpvc/?username=AlexQuesada2130&color=9C27B0&style=flat-square&label=PROFILE+VIEWS)
 
 **Cross-Platform App Developer | Lifelong Tech Enthusiast**
 
@@ -9,10 +8,13 @@ I am a computer science enthusiast dedicated to learning day by day. I enjoy tur
 
 Here are the technologies I work with to build complete cross-platform solutions, from design and UI to deployment and automation:
 
-**Mobile Development & Frameworks**<br>
+**Frameworks & Game Development**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 **Programming Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,10 +26,15 @@ Here are the technologies I work with to build complete cross-platform solutions
 **Databases & Cloud**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Operating Systems**<br>
+**DevOps, Version Control & OS**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash / Ubuntu](https://img.shields.io/badge/Bash_/_Ubuntu-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **CMS, ERP & Automation**<br>
@@ -39,8 +46,11 @@ Here are the technologies I work with to build complete cross-platform solutions
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 ---
 
@@ -75,8 +85,7 @@ A professional web tool to locate businesses in real-time, generate geographical
 ### 📫 Let's Connect!
 Have a project in mind, a job opportunity, or just want to chat about code?
 <p>
-  <!-- Cambia "tu-usuario-de-linkedin" por el tuyo real -->
-  <a href="https://linkedin.com/in/tu-usuario-de-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/alejandroquesadadev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9C27B0" alt="LinkedIn" />
   </a>
   <a href="mailto:Alexquesada2130@gmail.com">
